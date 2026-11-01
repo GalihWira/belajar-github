@@ -1,3 +1,4 @@
 nama: galih
 kampus: universitas udayana
 hobi: main ml
+hobi: main ff
